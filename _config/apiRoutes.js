@@ -4,5 +4,5 @@ const moduleVersion = 'v1';
 const urlBase = `${baseApiUrl}/${moduleName}/${moduleVersion}`;
 
 export default {
-  countries : `${urlBase}/currencies`,
+  currencies : `${urlBase}/currencies`,
 }
